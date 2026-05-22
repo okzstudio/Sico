@@ -142,7 +142,7 @@ A Digital Worker is not a single agent session, but a structured operational cap
 |------|---------------|--------|
 | Cortex | reasoning and decision-making | OpenAI, Anthropic, Gemini, Azure OpenAI, private models via LLM Hub |
 | Action | structured execution through workflows and tools | file operations, research tools, Python execution, Android sandbox |
-| Memory & Sense | operational knowledge and accumulated execution experience | knowledge base, workspace memory, vector memory, execution history |
+| Memory & Sense | operational knowledge, execution experience, and contextual awareness for grounding and continuous improvement | knowledge base, workspace memory, vector memory, execution history |
 
 Different Digital Workers form different capability structures depending on operational roles and execution requirements.
 
